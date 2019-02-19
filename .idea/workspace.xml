@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6543f2d-4e5e-4538-a4b3-7ad456bb6c56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CM/ALB.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CM/ASG.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CM/DOCKER.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CM/ECR.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CM/ECS.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CM/VPC.tf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CM/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -40,11 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CM/VPC.tf">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CM/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -103,6 +106,7 @@
         <option value="$PROJECT_DIR$/CM/ECS.tf" />
         <option value="$PROJECT_DIR$/CM/ECR.tf" />
         <option value="$PROJECT_DIR$/CM/VPC.tf" />
+        <option value="$PROJECT_DIR$/CM/Dockerfile" />
       </list>
     </option>
   </component>
@@ -167,12 +171,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550531217060</updated>
       <workItem from="1550531231972" duration="2238000" />
-      <workItem from="1550534854385" duration="1006000" />
+      <workItem from="1550534854385" duration="1595000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3244000" />
+    <option name="totallyTimeSpent" value="3833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -244,6 +248,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CM/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
